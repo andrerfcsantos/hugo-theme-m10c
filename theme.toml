@@ -3,6 +3,7 @@ license = "MIT"
 licenselink = "https://github.com/vaga/hugo-theme-m10c/blob/master/LICENSE.md"
 description = "A minimalistic (m10c) theme for bloggers"
 homepage = "https://github.com/vaga/hugo-theme-m10c"
+min_version = "0.158.0"
 tags = ["blog", "minimalistic", "minimal", "responsive", "dark"]
 features = [
   "minimalistic blog",
